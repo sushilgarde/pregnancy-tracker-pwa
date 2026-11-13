@@ -1,0 +1,1 @@
+import{B as e,H as t}from"./index-ByxqQs_B.js";var n=e(({app:e})=>{e.use(t())});export{n as default};
