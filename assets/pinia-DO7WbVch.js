@@ -1,0 +1,1 @@
+import{B as e,R as t}from"./index-Ch1mWYKK.js";var n=t(({app:t})=>{t.use(e())});export{n as default};
