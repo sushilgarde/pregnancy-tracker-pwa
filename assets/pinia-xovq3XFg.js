@@ -1,0 +1,1 @@
+import{B as e,R as t}from"./index-DIB8ajw0.js";var n=t(({app:t})=>{t.use(e())});export{n as default};
