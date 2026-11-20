@@ -1,0 +1,1 @@
+import{J as e,K as t}from"./index-CZi19QNE.js";var n=t(({app:t})=>{t.use(e())});export{n as default};
